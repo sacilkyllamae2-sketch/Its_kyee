@@ -1,4 +1,4 @@
-# Its_kyee
+# lab activity 
 # Task 1: The Basic Calculator
 
 # 1. Assign two different numbers to variables a and b
